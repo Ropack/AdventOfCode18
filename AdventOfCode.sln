@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode.1", "AdventOfCode.1\AdventOfCode.1.csproj", "{BC2ED30C-907C-459A-B4CE-7B623814D43A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode.2", "AdventOfCode.2\AdventOfCode.2.csproj", "{462B9F59-BF4C-447C-8299-344349F3C2B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
